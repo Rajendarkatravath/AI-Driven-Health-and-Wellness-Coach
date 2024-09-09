@@ -25,21 +25,20 @@ The AI-Driven Health and Wellness Coach is a web application built using Streaml
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/health-wellness-coach.git
-   cd health-wellness-coach
-
+   git remote add origin https://github.com/Rajendarkatravath/AI-Driven-Health-and-Wellness-Coach.git
+   
 2. **Create and Activate a Virtual Environment:**
    ```bash
    python -m venv venv
 
-   On Windows:
+**On Windows:**
    ```bash
    venv\Scripts\activate
 
-   On macOS/Linux:
-   ```bash
+**On macOS/Linux:**
+  ```bash
    source venv/bin/activate
-   
+
 2. **install Dependencies:**
 
    ```bash
